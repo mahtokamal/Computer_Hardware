@@ -8,3 +8,5 @@ Everyone must learn and follows general safety as well as fire precautions whene
 - Proper lifting procedure (bending your knees while lifting heavy object to avoid injury)
 - Fire extinguisher availabilty, rating and use
   PASS (Pull the pin, Aim at the base of fire, Squeeze the lever, Sweep from side to side)
+# Personal Computer and Safety
+What is in a computer?
