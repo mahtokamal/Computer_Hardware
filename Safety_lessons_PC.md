@@ -24,3 +24,27 @@ Electrical devices have specific power requirements—for example, AC adapters m
 Exchanging AC adapters with different types of devices may cause damage to both the AC adapter and the device.
 
 Electric equipment must be grounded. If a fault causes metal parts of the equipment to become live with electrical current, the ground will provide a path of least resistance for the current to flow harmlessly away. Typically computer products connect to the ground via the power plug—large equipment such as server racks that house network devices must also be grounded.
+
+# ESD 
+Electrostatic discharge (ESD) can occur when a buildup of an electric charge (static electricity) exists on a surface that comes into contact with another, differently charged surface. ESD can cause damage to computer equipment if not discharged properly. To prevent equipment damage and data loss, follow proper handling guidelines, be aware of environmental issues, and use equipment that stabilizes power.
+
+At least 3,000 volts of static electricity must build up before a person can feel ESD. For example, static electricity can build up as you walk across a carpeted floor. When you touch another person, you both receive a shock. If the discharge causes pain or makes a noise, the charge is probably above 10,000 volts. Less than 30 volts of static electricity can damage a computer component. Static buildup discharges by touching a grounded object before touching any electronic equipment, also known as self-grounding.
+
+# Computer Disassembly
+
+# Open the Case and Connect the Power Supply
+
+# Install Motheboard Components
+
+# Install Drives and Adapter Cards
+
+# Install Cables and Complete Assembly
+
+
+
+ESD can cause permanent damage to electrical components. Follow these recommendations to help prevent ESD damage:
+
+- Keep all components in antistatic bags until you are ready to install them.
+- Use grounded mats on workbenches.
+- Use grounded floor mats in work areas.
+- Apply antistatic wrist straps when working inside computers.
