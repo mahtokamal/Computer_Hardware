@@ -38,6 +38,26 @@ ESD can cause permanent damage to electrical components. Follow these recommenda
 - Apply antistatic wrist straps when working inside computers.
 
 # Computer Disassembly
+## Technician's Toolkit
+- Anti-static Wrist Strap and Mat
+- Compressed Air
+- Extraction Tool
+- Philips Head Screwdriver
+- Torx Driver
+- Cable Tester
+- Crimpers
+
+## Diaassemble a Computer
+- Step 1 : Power off and disconnect the power supply
+- Step 2 : Disconnect the mouse and keyboard
+- Step 3 : Remove the Case screws
+- Step 4 : Remove the SATA power and data cables
+- Step 5 : Remove the hard drive
+- Step 6 : Remove the optical drive
+- Step 7 : Remove the adapter card
+- Step 8 : Remove the Power supply
+- Step 9 : Remove the front pannel connectors
+- Step 10 : Remove the RAM
 
 # Open the Case and Connect the Power Supply
 
