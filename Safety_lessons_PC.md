@@ -60,8 +60,30 @@ ESD can cause permanent damage to electrical components. Follow these recommenda
 - Step 10 : Remove the RAM
 
 # Open the Case and Connect the Power Supply
-
+- Step 1: Open the computer case
+- Step 2: Align the Screw holes on the power supply with the mount on the computer case.
+- Step 3: Screw the power supply into place.
+ 
 # Install Motheboard Components
+- Step 1: Orient the CPU to the CPU slot.
+- Step 2: Press the CPU into the CPU slot.
+- Step 3: Lock the CPU into place.
+- Step 4: Apply thermal paste to the CPU.
+- Step 5: Install the heatsink.
+- Step 6: Secure the heatsink.
+  ## Install the RAM
+  - Step 1: Open the RAM slot levers
+  - Step 2: Orient the RAM chip to the motherboard slot.
+  - Step 3: Lower the RAM chip into the slot.
+  - Step 4: Press down firmly to lock the RAM chip.
+
+  ## Install the RAM
+  - Step 1: Align the motherboard in the correct direction.
+  - Step 2: Locate the standoffs.
+  - Step 3: Install standoffs in the computer case.
+  - Step 4: Align I/O plate to back of computer case.
+  - Step 5: Lower motherboard into place.
+  - Step 6: Install the Screws into the standoffs.
 
 # Install Drives and Adapter Cards
 
