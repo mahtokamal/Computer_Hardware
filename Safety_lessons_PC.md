@@ -87,7 +87,59 @@ ESD can cause permanent damage to electrical components. Follow these recommenda
 
 # Install Drives and Adapter Cards
 
+ ## Install the Drives
+ **Hard Drives**
+ - Step 1: Position the HDD So that it aligns with the drive bay opening. The Power and interface connectors should be facing out toward the motherboard.
+ - Step 2: Insert the HDD into the drive bay so that the screw holes in the drive line up with the screw holes in the case.
+ - Step 3: Secure the HDD to the case using the proper screws.
+**Optical Drives**
+ - Step 1: From the front of the case, choose the drive bay that you want to hold the drive. Remove the faceplate from that bay if necessary. 
+ - Step 2: Position the optical drive so that it aligns with the 5.25 inch (13.34 cm.) drive bay opening at the front of the case.
+ - Step 3: Insert the optical drive into the drive bay so that the optical drive screw holes align with the screw holes in the case.
+ - Step 4: Secure the optical drive to the case using the proper screws.
+
+## Install the Adapter Cards
+- Step 1: Find an empty PCIe x16 slot on the case and remove the small metal cover.
+- Step 2: Align the video adapter card to the appropriate expansion slot on the mother board.
+- Step 3: Press down gently on the video adapter card until it is fully seated.
+- Step 4: Secure the video adapter card mounting bracket to the case with the appropriate screw.
+
 # Install Cables and Complete Assembly
+ ## Connect the Internal Power Cables
+ - Step 1: Align the 24-pin ATX power connector to the socket on the motherboard.
+ - Step 2: Gently press down on the connector until the clip clicks into place.
+ - Step 3: Align the 4-pin auxiliary power connector to the socket on the motherboard.
+ - Step 4: Gently press down on the connector util th clip clicks into place.
+ - Step 5: Align the CPU fan power connector to the socket on the motherboard. 
+ - Step 6: Gently press down on the connector until the clip clicks into place.
 
+ ## Connect the SATA and fan Power connectors
+ - Step 1: Align the 15-pin SATA power connector to the port on the drive.
+ - Step 2: Gently push in the connector until the connector is fully seated.
+ - Step 3: Align the 3-pin or 4-pin fan Power connector to the port on the motherboard.
+ - Step 4: Gently press down on the connector until the connector is fully seated.
 
+ ## Connect the internal data cables
+ - Step 1: Align the SATA cable and plug one end into the motherboard socket.
+ - Step 2: Align the othe end of the SATA cable and plug it into the smaller SATA port on the drive.
 
+ ## Install the front panel
+ - Step 1: Plug the power cable into the system panel connector in the location marked PWR_SW.
+ - Step 2: Plug the reset cable into the system panel connector in the location marked RESET.
+ - Step 3: Plug the power LED cable into the system panel connector in the location marked PWR_LED.
+ - Step 4: Plug the drive activity LED cable into the system panel connector in the location marked HDD_LED.
+ - Step 5: Plug the speaker cable into the system panel connector in the location marked SPEAKER.
+ - Step 6: Plug the USE cable into the USB connector.
+ - Step 7: Plug the audio cable into the audio connector.
+
+ ## Complete the Computer Assembly
+ - Step 1:
+ - Step 2:
+ - Step 3:
+ - Step 4:
+ - Step 5:
+ - Step 6:
+ - Step 7:
+ - Step 8:
+ - Step 9:
+ - 
