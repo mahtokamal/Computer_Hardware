@@ -133,13 +133,13 @@ ESD can cause permanent damage to electrical components. Follow these recommenda
  - Step 7: Plug the audio cable into the audio connector.
 
  ## Complete the Computer Assembly
- - Step 1:
- - Step 2:
- - Step 3:
- - Step 4:
- - Step 5:
- - Step 6:
- - Step 7:
- - Step 8:
- - Step 9:
+ - Step 1: Reattach the front panel (if necesary).
+ - Step 2: Plug the power cable into the power supply.
+ - Step 3: Orient and connect USB cables to USB ports.
+ - Step 4: Orient and connect the video cable to the  video port on the video adapter.
+ - Step 5: Tighten the video cable screws to the video adapter.
+ - Step 6: Connect the network cable to the Ethernet port.
+ - Step 7: Connect the audio cable to the audio ports.
+ - Step 8: Place the side Panel cover onto the case slide it closed.
+ - Step 9: Tighten any screws to secure the side panel cover.
  - 
