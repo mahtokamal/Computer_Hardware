@@ -81,3 +81,5 @@ An M.2 drive, shown in the figure, is a very small form factor of solid-state dr
 ![8d6be31e1adaabbc830e4373b85e5482743bf7f5](https://github.com/user-attachments/assets/c7fa1c30-4ac4-4fb2-9e96-0e60179f2ddc)
 
 ## 2.2 Laptop Wireless Connfigurations
+
+## 2.3 Laptop Installations
