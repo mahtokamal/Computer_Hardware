@@ -1,5 +1,5 @@
 # Computer_Hardware
-This teaches us to learn the foundational knowledge about the Computer Hardware and related components.
+This teaches us to learn the foundational knowledge about the Computer Hardware and related components. Thid tutorial projects is still under work in progress.
 # List of References
 https://skillsforall.com/course/computer-hardware-basics?courseLang=en-US
 https://www.explainthatstuff.com/howcomputerswork.html
